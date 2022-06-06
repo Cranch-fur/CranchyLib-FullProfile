@@ -43,15 +43,15 @@ using CranchyLib.fullProfile;
     - `bloodStoreSurvivors` 📕
     - `dailyRitualSaveData` 📕
     - `fullProfile` 📗
-- `Decrypt`
-- `Decrypt_Async`
-- `Encrypt`
-- `Encrypt_Async`
-- `GetUserIdFromFullProfile`
-- `SetFullProfileUserId`
-- `SetFullProfileCurrentSeasonTicks`
-- `SetFullProfileUserIdAndCurrentSeasonTicks`
-- `UpdateFullProfileContestToValidate`
+- `Decrypt` :star:
+- `Decrypt_Async` :star2:
+- `Encrypt` :star:
+- `Encrypt_Async` :star2:
+- `GetUserIdFromFullProfile` :star:
+- `SetFullProfileUserId` :star:
+- `SetFullProfileCurrentSeasonTicks` :star:
+- `SetFullProfileUserIdAndCurrentSeasonTicks` :star:
+- `UpdateFullProfileContestToValidate` :star:
 
 ____
 
